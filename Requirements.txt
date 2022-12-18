@@ -14,3 +14,6 @@ face_recognition
 dlib
 warnings
 sklearn
+
+pip install --upgrade pip
+pip install cmake opencv-python regex re2 filelock click pyPiper imutils face-recognition dlib pytest-warnings pickle5 face-recognition tensorflow tensorflow-gpu scikit-learn numpy
